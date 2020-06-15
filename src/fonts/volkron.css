@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Volkron-Bold;
+    src: url("./Vollkorn-Bold.ttf")
+}
+
+@font-face {
+    font-family: Volkron-Regular;
+    src: url("./Vollkorn-Regular.ttf")
+}
+
+@font-face {
+    font-family: Volkron-Medium;
+    src: url("./Vollkorn-Medium.ttf")
+}
