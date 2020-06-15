@@ -2,7 +2,6 @@
 
 ![Web view with search](https://user-images.githubusercontent.com/17152399/84695885-32630b00-af69-11ea-9221-3eb363b099e7.png)
 
-![Ipone view](https://user-images.githubusercontent.com/17152399/84695901-3e4ecd00-af69-11ea-9498-b2b5292d2ce5.png)
 
 
 # covid-19
